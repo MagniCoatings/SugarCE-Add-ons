@@ -1,4 +1,6 @@
-# SugarCE Add-ons
+# SugarCE Add-ons Magni Coatings Fork
+
+
 Today, GitHub is recognized by many as the source code management tool of choice for open source development. Fork, pull, clone, are part of every developer’s vernacular. 
 
 This new CE add-on repository will allow you more control when creating your listings. This new repository is for listing and reference purposes only and will not contain any downloadable .zip files. Your source code should be in it's own github repository or another place of your choosing. If you wish to access or use any of the apps provided in this repository, please see [TERMS OF USE](SugarCE_AddOns_Github_Terms_of_Use_released_2-18-14.md) for details. 
